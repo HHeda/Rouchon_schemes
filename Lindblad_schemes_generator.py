@@ -55,6 +55,6 @@ if __name__ == "__main__":
     os.makedirs(path, exist_ok=True)
     log_write(f"Running on {os.cpu_count()} CPU cores", init = False, logfile_name=path+'log.txt')
     p = Pool(processes=os.cpu_count())
-    generate_Lindblad_maps(pool=None, path = path)
+    generate_Lindblad_maps(pool=p, path = path)
 
     
