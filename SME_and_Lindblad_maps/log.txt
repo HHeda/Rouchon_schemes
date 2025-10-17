@@ -89,3 +89,29 @@ New terms and operators generated in 4.307 seconds
 Gram-Schmidt extended in 1.813 seconds
 Simplification of new terms done in 0.175 seconds
 Decomposition of new basis done in 2.428 seconds
+Gram-Schmidt of new SME states done in 4.835 seconds, number of SME Kraus operators: 12
+Basis updated in 1.101 seconds
+Order increased to 6 in 16.462 seconds
+Scheme of order 6 computed in 0.0 hours, number of Lindblad Kraus operators: 21
+Computing Lindblad Kraus operators of order 6...
+Lindblad Kraus operators computed in 0.01 minutes
+Lindblad Kraus operators of order 6 saved
+Computing SME Kraus operators of order 6...
+SME Kraus operators computed in 0.04 minutes
+SME Kraus operators of order 6 saved
+Computing scheme of order 7...
+New terms and operators generated in 14.578 seconds
+Gram-Schmidt extended in 3.975 seconds
+Simplification of new terms done in 0.363 seconds
+Decomposition of new basis done in 5.89 seconds
+Gram-Schmidt of new SME states done in 18.669 seconds, number of SME Kraus operators: 21
+Basis updated in 5.761 seconds
+Order increased to 7 in 54.449 seconds
+Scheme of order 7 computed in 0.02 hours, number of Lindblad Kraus operators: 34
+Computing Lindblad Kraus operators of order 7...
+Lindblad Kraus operators computed in 0.02 minutes
+Lindblad Kraus operators of order 7 saved
+Computing SME Kraus operators of order 7...
+SME Kraus operators computed in 0.23 minutes
+SME Kraus operators of order 7 saved
+Computing scheme of order 8...
