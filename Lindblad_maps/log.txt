@@ -1,0 +1,72 @@
+Running on 64 CPU cores
+Scheme of order 0 was already saved
+Computing Lindblad Kraus operators of order 0...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 0 was saved
+Lindblad Kraus operators of order 0 saved
+Starting from scheme of order 1
+Computing scheme of order 1...
+New terms and operators generated in 0.001 seconds
+Gram-Schmidt extended in 0.136 seconds
+Simplification of new terms done in 0.003 seconds
+Scheme of order 1 computed in 0.0 hours, number of Lindblad Kraus operators: 2
+Computing Lindblad Kraus operators of order 1...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 1 saved
+Computing scheme of order 2...
+New terms and operators generated in 0.028 seconds
+Gram-Schmidt extended in 0.07 seconds
+Simplification of new terms done in 0.006 seconds
+Scheme of order 2 computed in 0.0 hours, number of Lindblad Kraus operators: 3
+Computing Lindblad Kraus operators of order 2...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 2 saved
+Computing scheme of order 3...
+New terms and operators generated in 0.087 seconds
+Gram-Schmidt extended in 0.361 seconds
+Simplification of new terms done in 0.019 seconds
+Scheme of order 3 computed in 0.0 hours, number of Lindblad Kraus operators: 5
+Computing Lindblad Kraus operators of order 3...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 3 saved
+Computing scheme of order 4...
+New terms and operators generated in 0.326 seconds
+Gram-Schmidt extended in 0.623 seconds
+Simplification of new terms done in 0.031 seconds
+Scheme of order 4 computed in 0.0 hours, number of Lindblad Kraus operators: 8
+Computing Lindblad Kraus operators of order 4...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 4 saved
+Computing scheme of order 5...
+New terms and operators generated in 1.185 seconds
+Gram-Schmidt extended in 0.932 seconds
+Simplification of new terms done in 0.083 seconds
+Scheme of order 5 computed in 0.0 hours, number of Lindblad Kraus operators: 13
+Computing Lindblad Kraus operators of order 5...
+Lindblad Kraus operators computed in 0.0 minutes
+Lindblad Kraus operators of order 5 saved
+Computing scheme of order 6...
+New terms and operators generated in 4.235 seconds
+Gram-Schmidt extended in 2.198 seconds
+Simplification of new terms done in 0.181 seconds
+Scheme of order 6 computed in 0.0 hours, number of Lindblad Kraus operators: 21
+Computing Lindblad Kraus operators of order 6...
+Lindblad Kraus operators computed in 0.01 minutes
+Lindblad Kraus operators of order 6 saved
+Computing scheme of order 7...
+New terms and operators generated in 14.995 seconds
+Gram-Schmidt extended in 4.401 seconds
+Simplification of new terms done in 0.375 seconds
+Scheme of order 7 computed in 0.01 hours, number of Lindblad Kraus operators: 34
+Computing Lindblad Kraus operators of order 7...
+Lindblad Kraus operators computed in 0.02 minutes
+Lindblad Kraus operators of order 7 saved
+Computing scheme of order 8...
+New terms and operators generated in 50.039 seconds
+Gram-Schmidt extended in 10.959 seconds
+Simplification of new terms done in 0.766 seconds
+Scheme of order 8 computed in 0.02 hours, number of Lindblad Kraus operators: 55
+Computing Lindblad Kraus operators of order 8...
+Lindblad Kraus operators computed in 0.07 minutes
+Lindblad Kraus operators of order 8 saved
+Computing scheme of order 9...
