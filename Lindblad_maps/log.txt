@@ -70,3 +70,51 @@ Computing Lindblad Kraus operators of order 8...
 Lindblad Kraus operators computed in 0.07 minutes
 Lindblad Kraus operators of order 8 saved
 Computing scheme of order 9...
+New terms and operators generated in 173.241 seconds
+Gram-Schmidt extended in 31.794 seconds
+Simplification of new terms done in 1.779 seconds
+Scheme of order 9 computed in 0.06 hours, number of Lindblad Kraus operators: 89
+Computing Lindblad Kraus operators of order 9...
+Lindblad Kraus operators computed in 0.26 minutes
+Lindblad Kraus operators of order 9 saved
+Computing scheme of order 10...
+New terms and operators generated in 612.994 seconds
+Gram-Schmidt extended in 92.896 seconds
+Simplification of new terms done in 3.659 seconds
+Scheme of order 10 computed in 0.2 hours, number of Lindblad Kraus operators: 144
+Computing Lindblad Kraus operators of order 10...
+Lindblad Kraus operators computed in 0.96 minutes
+Lindblad Kraus operators of order 10 saved
+Computing scheme of order 11...
+New terms and operators generated in 2223.793 seconds
+Gram-Schmidt extended in 294.323 seconds
+Simplification of new terms done in 8.082 seconds
+Scheme of order 11 computed in 0.7 hours, number of Lindblad Kraus operators: 233
+Computing Lindblad Kraus operators of order 11...
+Lindblad Kraus operators computed in 3.56 minutes
+Lindblad Kraus operators of order 11 saved
+Computing scheme of order 12...
+New terms and operators generated in 8111.717 seconds
+Gram-Schmidt extended in 963.196 seconds
+Simplification of new terms done in 16.136 seconds
+Scheme of order 12 computed in 2.53 hours, number of Lindblad Kraus operators: 377
+Computing Lindblad Kraus operators of order 12...
+Lindblad Kraus operators computed in 13.45 minutes
+Lindblad Kraus operators of order 12 saved
+Computing scheme of order 13...
+New terms and operators generated in 30680.163 seconds
+Gram-Schmidt extended in 3391.206 seconds
+Simplification of new terms done in 36.52 seconds
+Scheme of order 13 computed in 9.47 hours, number of Lindblad Kraus operators: 610
+Computing Lindblad Kraus operators of order 13...
+Lindblad Kraus operators computed in 51.51 minutes
+Lindblad Kraus operators of order 13 saved
+Computing scheme of order 14...
+New terms and operators generated in 118194.654 seconds
+Gram-Schmidt extended in 12299.925 seconds
+Simplification of new terms done in 91.603 seconds
+Scheme of order 14 computed in 36.27 hours, number of Lindblad Kraus operators: 987
+Computing Lindblad Kraus operators of order 14...
+Lindblad Kraus operators computed in 201.1 minutes
+Lindblad Kraus operators of order 14 saved
+Computing scheme of order 15...
