@@ -118,3 +118,30 @@ Computing Lindblad Kraus operators of order 14...
 Lindblad Kraus operators computed in 201.1 minutes
 Lindblad Kraus operators of order 14 saved
 Computing scheme of order 15...
+Running on 64 CPU cores
+Scheme of order 0 was already saved
+Scheme of order 1 was already saved
+Scheme of order 2 was already saved
+Scheme of order 3 was already saved
+Scheme of order 4 was already saved
+Scheme of order 5 was already saved
+Scheme of order 6 was already saved
+Scheme of order 7 was already saved
+Scheme of order 8 was already saved
+Scheme of order 9 was already saved
+Scheme of order 10 was already saved
+Scheme of order 11 was already saved
+Scheme of order 12 was already saved
+Scheme of order 13 was already saved
+Scheme of order 14 was already saved
+Lindblad Kraus operators of order 14 was already saved
+Starting from scheme of order 15
+Computing scheme of order 15...
+New terms and operators generated in 441314.569 seconds
+Gram-Schmidt extended in 48956.853 seconds
+Simplification of new terms done in 175.064 seconds
+Scheme of order 15 computed in 136.24 hours, number of Lindblad Kraus operators: 1597
+Computing Lindblad Kraus operators of order 15...
+Lindblad Kraus operators computed in 868.96 minutes
+Lindblad Kraus operators of order 15 saved
+Computing scheme of order 16...
